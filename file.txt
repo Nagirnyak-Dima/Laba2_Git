@@ -1,0 +1,4 @@
+ HEAD
+Text from MASTER
+Text from DEV
+dev
